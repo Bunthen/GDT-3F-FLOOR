@@ -1,0 +1,51 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 17
+
+## Skin
+
+### Button
+Button_797CCC04_7724_8647_41C7_42A9E8F872B9.label = MINI MAP
+Button_B5551DB1_A8AE_1192_41E0_9815EC3E8FD9.label = CONTACT US
+
+### Multiline Text
+HTMLText_B3A95BF7_AD90_5B11_41E1_AC9050095132.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:20.0618px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20.06px;"><B><I>GDT 3rd Floor</I></B></SPAN></SPAN></DIV></div>
+
+## Media
+
+### Title
+map_F233B6AE_E6BA_0A35_41D8_3EDA7DDB52D4.label = 24GDT-VT-3F-R00-MAP
+panorama_EC0E4FFF_E6A6_FA76_41DC_131E7FAB61AC.label = 3-01
+panorama_EC4CEA92_E699_FA89_41D2_8601362203A4.label = 2-01
+panorama_ECA03877_E6A6_0676_41DF_6CF06D805769.label = 2-07
+panorama_ECA11250_E6A6_058A_41A6_F6D5B74019AB.label = 2-02
+panorama_ECAE0010_E6A6_058A_41DF_89B641F7621A.label = 3-03
+panorama_ECAE3074_E6A6_0589_41E6_645E12B390A2.label = 3-05
+panorama_ECAE710F_E6A6_0796_41EC_3AEF9CF1EF59.label = 3-07
+panorama_ECAED8D6_E6A6_06B6_41DB_C48BE3F606A8.label = 3-06
+panorama_ECAEE837_E6A6_05F6_41D1_2FD4E82074B7.label = 3-04
+panorama_ECAFF849_E6A6_059A_41B5_49B59731C6BF.label = 3-02
+panorama_ED00970C_E69A_0B99_41E4_0F4701FAF346.label = 1-01
+panorama_EF5FA1C3_E6A6_068F_41E3_34E364463B95.label = 2-04
+panorama_EF5FC018_E6A6_05B9_41DC_26BF1589C1F5.label = 2-08
+panorama_EF5FD104_E6A6_078A_41D2_92FBBCC84213.label = 2-06
+panorama_EF5FDA40_E6A6_0589_41D9_D7FC83707BF9.label = 2-03
+panorama_EF5FF961_E6A6_078A_41A9_8EF127763361.label = 2-05
+panorama_EF758ED5_E69A_3A8B_41EA_F9472DF7C0CD.label = 1-02
+panorama_EF7797AC_E69A_0A9A_41A8_6C39DBF9C30D.label = 1-05
+panorama_EF77B76E_E69A_0B99_41B2_237F50E98EFA.label = 1-03
+panorama_EF77C72D_E69A_0B9B_41AF_3F5C31B614D4.label = 1-07
+panorama_EF787F1D_E69A_1BBA_41E4_00AA71F642DF.label = 1-04
+panorama_EF787F5B_E69A_7BBE_41EB_F12FE4E25292.label = 1-06
+
+## Action
+
+### URL
+LinkBehaviour_62794666_79E9_03EC_41D4_DDAD94DA9992.source = https://www.cmedcc.com/
+LinkBehaviour_6C7D38B0_671C_6FF3_41BD_FA54706086B5.source = https://www.google.com/maps/place/CMED+Construction+Company/@11.5450478,104.9248668,15z/data=!4m5!3m4!1s0x0:0x7e215fce7b5af38c!8m2!3d11.5450478!4d104.9248668
+LinkBehaviour_6C7D48B0_671C_6FF3_41B6_9AB60445937E.source = https://www.linkedin.com/company/cmedcc/
